@@ -1,3 +1,2 @@
 # Cloud2convert
-A hub of tools to use in daily life
-Website link: https://cloud2convert.com
+This repository contains documentation for using the <a href="https://cloud2convert.com">Cloud2convert</a> tool.
